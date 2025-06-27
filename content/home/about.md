@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 心动.gif
+    image: icon.png
 ---
