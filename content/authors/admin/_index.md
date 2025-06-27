@@ -1,7 +1,7 @@
 ---
 title: Dongzi Yang
-role: PhD student in Fudan University
-avatar_filename: 杨东子.jpg
+role: PhD student
+avatar_filename: ""
 bio: My research interests include neuromorphic computing ,flexible
   biological/chemical sensors and wearable systems
 interests:
