@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.researchgate.net
 organizations:
-  - name: University of Edinburgh
-    url: https://www.eng.ed.ac.uk/
+  - name: Fudan University
+    url: ""
 education:
   courses:
     - course: Ph.D. in Integrate circuit science and engineering
@@ -39,7 +39,7 @@ education:
     - course: B.Eng. in Material Science and Engineering
       institution: Xidian University
       year: ""
-email: ""
+email: dzyang23@m.fudan.edu.cn
 superuser: true
 highlight_name: true
 ---
