@@ -43,14 +43,11 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-D.Y. is an PhD student specialising in **neuromorphic computing** and **flexible electronics** in Frontier Institute of Chips and Systems in Fudan University. 
+**Dongzi Yang** is currently a Ph.D. candidate in Integrated Circuit Science and Engineering at Fudan University. He received his B.E. degree in Materials Science and Engineering from Xidian University in 2020 and his M.E. degree in Materials and Chemical Engineering from Soochow University in 2023. His research interests include **neuromorphic devices and computing**, **flexible sensors**, and **intelligent sensing systems**.  
 
-J.P. is an experienced research scientist specialising in **particulate mechanics** and the **Discrete Element Method (DEM)**. J.P. completed his Ph.D. at the University of Edinburgh studying in the field of granular mechanics and has over 10 years research experience covering both the experimental and numerical fields.   
+D.Y. was the developer of a novel sweat fingerprint identification method that captures the intrinsic ion dynamics of human sweat by organic electrochemical transistor (OECT) array and flexible sweat sensing system. 
 
-J.P. was the developer of a novel DEM contact model that captures the behaviour of complex cohesive granular solids. 
-This contact model has been implemented in the commerical DEM code **EDEM** (now *Altair EDEM*) as the **Edinburgh Elasto-Plastic Adhesion Model (EEPA)**.
-J.P. was also heavily involved in the development of the **Edinburgh Powder Tester (EPT)** whose technology was later licenced to Freeman Technologies for use in the Freeman UPT. 
 
-Working the the numerical field of *DEM*, *programming*, *data analysis* and *visualisation* are common tasks and *python*, *Julia* and *C++* are often the tools of choice. 
+Working the field of **neuromorphic computing**, *programming*, *data analysis* and *visualisation* are common tasks and *Origin*, *Python*, and *Matlab* are often the tools of choice. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Full_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
