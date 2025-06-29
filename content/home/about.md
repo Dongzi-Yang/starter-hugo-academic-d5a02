@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: icon.png
+    image: a2ccc42a394894f34e8ca70719815f0.jpg
 ---
