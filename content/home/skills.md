@@ -16,21 +16,21 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: icons8-solidworks-flow-simulation
+- description: 85%
+  icon: C4D
   icon_pack: "custom"
-  name: Numerical Simulations
+  name: Cinema 4D
   
-- description: 90%
-  icon: python
-  icon_pack: fab
-  name: Python
-
-- description: 75%
+- description: 80%
   icon: icons8-matlab
   icon_pack: "custom"
   name: MATLAB
-
+  
+- description: 70%
+  icon: python
+  icon_pack: fab
+  name: Python
+  
 - description: 80%
   icon: chart-line
   icon_pack: fas
