@@ -1,7 +1,7 @@
 ---
 title: Dongzi Yang
 role: PhD student
-avatar_filename: fast-run-2.png
+avatar_filename: 杨东子.jpg
 bio: My research interests include neuromorphic computing ,flexible
   biological/chemical sensors and wearable systems
 interests:
