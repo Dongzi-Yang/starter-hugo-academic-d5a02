@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: John P. Morrissey # Website name
-baseurl: 'www.johnpmorrissey.com' # Website URL
-copyright: '© 2021 John P. Morrissey' # Footer text, e.g. '© {year} Me'
+title: Dongzi Yang # Website name
+baseurl: 'https://dzyanghome.netlify.app/' # Website URL
+copyright: '© 2025 Dongzi Yang' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
