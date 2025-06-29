@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: 背景1.png
+    image: 背景2.webp
 ---
